@@ -7,4 +7,5 @@ class CashRegister
     @discount = discount
     @items = []
   end
+  
 end  
